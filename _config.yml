@@ -11,11 +11,11 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Yunus Emre DEV # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
-social-twitter: # add your Twitter handle
 social-facebook: https://www.facebook.com/profile.php?id=100001246547999 # add your Facebook handle
 social-github: artemsheludko # add your Github handle
 social-linkedin: yunus-emre-52192b68/ # add your Linkedin handle
 social-email: yunusemre09@hotmail.com # add your Email address
+web-site: yunusemredev.com # add your web-site
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
